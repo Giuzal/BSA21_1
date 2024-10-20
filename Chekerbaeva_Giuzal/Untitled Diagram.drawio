@@ -1,9 +1,45 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.8.0">
   <diagram name="Page-1" id="pLnqj0ZmoL0o-CIRCUhG">
-    <mxGraphModel>
+    <mxGraphModel dx="1114" dy="2066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1300" pageHeight="700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-QncPaq0xCT176yH-oGc-1" value="&lt;span style=&quot;color: rgb(31, 35, 40); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Я, как пользователь приложения социальной сети «Вконтакте», хочу пересылать посты из ленты в диалоги с друзьями в виде ссылок, чтобы делиться с ними информацией.&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-1290" width="640" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-QncPaq0xCT176yH-oGc-4" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry y="-1140" width="326.25" height="197.18" as="geometry" />
+        </mxCell>
+        <mxCell id="-QncPaq0xCT176yH-oGc-8" value="" style="endArrow=none;html=1;rounded=0;exitX=0.081;exitY=0.985;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="65.0727000000001" y="-1159.99875" as="sourcePoint" />
+            <mxPoint x="261.16999999999996" y="-1159.8899999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-QncPaq0xCT176yH-oGc-10" value="Главная" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="-1195" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-QncPaq0xCT176yH-oGc-12" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=1;shadow=0;shape=mxgraph.ios7.icons.user;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-1190" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-QncPaq0xCT176yH-oGc-18" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.icons.bell;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-1190" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-QncPaq0xCT176yH-oGc-19" value="" style="endArrow=none;html=1;rounded=0;exitX=0.081;exitY=0.985;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="65.0727000000001" y="-919.99875" as="sourcePoint" />
+            <mxPoint x="261.16999999999996" y="-919.8899999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-QncPaq0xCT176yH-oGc-20" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.icons.home;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-910" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-QncPaq0xCT176yH-oGc-22" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/magnifier-128.png" vertex="1" parent="1">
+          <mxGeometry x="110" y="-914" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="-QncPaq0xCT176yH-oGc-24" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="1">
+          <mxGeometry x="149.13" y="-920" width="30.87" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
