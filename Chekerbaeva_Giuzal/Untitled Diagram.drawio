@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.8.0">
   <diagram name="Page-1" id="pLnqj0ZmoL0o-CIRCUhG">
-    <mxGraphModel dx="1114" dy="2066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1300" pageHeight="700" math="0" shadow="0">
+    <mxGraphModel dx="1311" dy="2184" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1300" pageHeight="700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,7 +38,28 @@
           <mxGeometry x="110" y="-914" width="28" height="28" as="geometry" />
         </mxCell>
         <mxCell id="-QncPaq0xCT176yH-oGc-24" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="1">
-          <mxGeometry x="147.69" y="-910" width="22.31" height="20" as="geometry" />
+          <mxGeometry x="151.97" y="-910" width="22.31" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-QncPaq0xCT176yH-oGc-29" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/menu-128.png;imageBorder=none;imageBackground=none;" vertex="1" parent="1">
+          <mxGeometry x="221" y="-910" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-QncPaq0xCT176yH-oGc-32" value="Название сообщества&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="-1126.25" width="128" height="13.75" as="geometry" />
+        </mxCell>
+        <mxCell id="-QncPaq0xCT176yH-oGc-33" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.azure.github_code;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="-1136.5" width="25" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="-QncPaq0xCT176yH-oGc-36" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.heart" vertex="1" parent="1">
+          <mxGeometry x="97.5" y="-970" width="12.5" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="-QncPaq0xCT176yH-oGc-37" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="99.67" y="-1104.8600000000001" width="126.91" height="126.91" as="geometry" />
+        </mxCell>
+        <mxCell id="-QncPaq0xCT176yH-oGc-39" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.icons.share;" vertex="1" parent="1">
+          <mxGeometry x="210.5" y="-972" width="10.5" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="-QncPaq0xCT176yH-oGc-44" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="197.88" y="-977.95" width="35.75" height="27.95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
