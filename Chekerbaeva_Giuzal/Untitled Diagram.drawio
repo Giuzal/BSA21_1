@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-QncPaq0xCT176yH-oGc-1" value="&lt;span style=&quot;color: rgb(31, 35, 40); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Я, как пользователь приложения социальной сети «Вконтакте», хочу пересылать посты из ленты в диалоги с друзьями, чтобы делиться с ними информацией.&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="320" y="-1290" width="640" height="30" as="geometry" />
+          <mxGeometry x="320" y="-1300" width="640" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-QncPaq0xCT176yH-oGc-4" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" parent="1" vertex="1">
           <mxGeometry y="-1140" width="326.25" height="197.18" as="geometry" />
@@ -124,10 +124,15 @@
         <mxCell id="-QncPaq0xCT176yH-oGc-72" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
           <mxGeometry x="430.27" y="-1073.97" width="71.47" height="27.95" as="geometry" />
         </mxCell>
-        <mxCell id="-QncPaq0xCT176yH-oGc-74" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="-QncPaq0xCT176yH-oGc-4" target="-QncPaq0xCT176yH-oGc-45" edge="1">
+        <mxCell id="-QncPaq0xCT176yH-oGc-74" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;" parent="1" source="-QncPaq0xCT176yH-oGc-44" target="-QncPaq0xCT176yH-oGc-45" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="260" y="-1000" as="sourcePoint" />
             <mxPoint x="310" y="-1050" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="-920" />
+              <mxPoint x="290" y="-840" />
+              <mxPoint x="450" y="-840" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-QncPaq0xCT176yH-oGc-75" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/magnifier-128.png" parent="1" vertex="1">
@@ -184,10 +189,15 @@
         <mxCell id="-QncPaq0xCT176yH-oGc-91" value="Друг 3" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="699" y="-1007.7400000000001" width="128" height="13.75" as="geometry" />
         </mxCell>
-        <mxCell id="-QncPaq0xCT176yH-oGc-92" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="-QncPaq0xCT176yH-oGc-77" edge="1">
+        <mxCell id="-QncPaq0xCT176yH-oGc-92" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;" parent="1" target="-QncPaq0xCT176yH-oGc-77" edge="1" source="-QncPaq0xCT176yH-oGc-72">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="-1045" as="sourcePoint" />
             <mxPoint x="608" y="-1054" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="590" y="-1060" />
+              <mxPoint x="600" y="-840" />
+              <mxPoint x="740" y="-840" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-QncPaq0xCT176yH-oGc-93" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/magnifier-128.png" parent="1" vertex="1">
@@ -206,10 +216,10 @@
           <mxGeometry x="720" y="-961.41" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-QncPaq0xCT176yH-oGc-98" value="Отправить" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="695.71" y="-958.2800000000001" width="128" height="13.75" as="geometry" />
+          <mxGeometry x="697.12" y="-958.0000000000001" width="128" height="13.75" as="geometry" />
         </mxCell>
         <mxCell id="-QncPaq0xCT176yH-oGc-99" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
-          <mxGeometry x="695.71" y="-970" width="124.29" height="38" as="geometry" />
+          <mxGeometry x="697.12" y="-970" width="124.29" height="38" as="geometry" />
         </mxCell>
         <mxCell id="-QncPaq0xCT176yH-oGc-100" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="896.5899999999999" y="-1145.41" width="326.25" height="200" as="geometry" />
@@ -262,10 +272,15 @@
         <mxCell id="-QncPaq0xCT176yH-oGc-114" value="Друг 3" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1000" y="-1006.8700000000001" width="128" height="13.75" as="geometry" />
         </mxCell>
-        <mxCell id="-QncPaq0xCT176yH-oGc-115" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="-QncPaq0xCT176yH-oGc-100" edge="1">
+        <mxCell id="-QncPaq0xCT176yH-oGc-115" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1;" parent="1" target="-QncPaq0xCT176yH-oGc-100" edge="1" source="-QncPaq0xCT176yH-oGc-97">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="860" y="-1045" as="sourcePoint" />
+            <mxPoint x="790" y="-940" as="sourcePoint" />
             <mxPoint x="908" y="-1054" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="880" y="-951" />
+              <mxPoint x="880" y="-840" />
+              <mxPoint x="960" y="-840" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-QncPaq0xCT176yH-oGc-116" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/magnifier-128.png" parent="1" vertex="1">
@@ -285,6 +300,42 @@
         </mxCell>
         <mxCell id="-QncPaq0xCT176yH-oGc-122" value="Готово!" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="995.71" y="-948.8700000000001" width="128" height="13.75" as="geometry" />
+        </mxCell>
+        <mxCell id="zYGzNhEF1717iJkyMXJU-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="83" y="-1250" width="162" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zYGzNhEF1717iJkyMXJU-2" value="1. Экран &quot;Главный&quot;&amp;nbsp;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="98.58" y="-1241.87" width="128" height="13.75" as="geometry" />
+        </mxCell>
+        <mxCell id="zYGzNhEF1717iJkyMXJU-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385.01" y="-1249.99" width="162" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zYGzNhEF1717iJkyMXJU-4" value="2. Экран &quot;Выбор друга&quot;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="382.85999999999996" y="-1241.87" width="159.41" height="13.75" as="geometry" />
+        </mxCell>
+        <mxCell id="zYGzNhEF1717iJkyMXJU-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680.12" y="-1249.9899999999998" width="162" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zYGzNhEF1717iJkyMXJU-6" value="3. Экран&amp;nbsp;&lt;div&gt;&quot;Отправить пост&quot;&amp;nbsp;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="685.71" y="-1241.8799999999999" width="144.3" height="13.75" as="geometry" />
+        </mxCell>
+        <mxCell id="zYGzNhEF1717iJkyMXJU-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="981" y="-1249.99" width="162" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zYGzNhEF1717iJkyMXJU-8" value="4. Экран &quot;Отправлено!&quot;&amp;nbsp;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="985.2900000000001" y="-1241.8799999999999" width="153.42" height="13.75" as="geometry" />
+        </mxCell>
+        <mxCell id="zYGzNhEF1717iJkyMXJU-10" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="103.13" y="-1081.41" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zYGzNhEF1717iJkyMXJU-11" value="Кнопка&amp;nbsp;&lt;div&gt;&quot;Поделиться постом&quot;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310.00000000000006" y="-860" width="128" height="13.75" as="geometry" />
+        </mxCell>
+        <mxCell id="zYGzNhEF1717iJkyMXJU-19" value="Выбор пользователя&lt;div&gt;для отправки&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;поста&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="608" y="-820" width="128" height="13.75" as="geometry" />
+        </mxCell>
+        <mxCell id="zYGzNhEF1717iJkyMXJU-23" value="Пост отправлен" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="872" y="-820" width="128" height="13.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
